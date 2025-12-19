@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Retreive-It: Lost & Found Portal Requirements",
+  "description": "A comprehensive platform detailing functional requirements and user flows for a modern Lost and Found management system, featuring AI-powered description enhancement and interactive flow diagrams.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
